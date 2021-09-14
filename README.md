@@ -1,1 +1,1 @@
-# AI_art_tool_VRgallery
+# Generative AI art tool & AI VR gallery
